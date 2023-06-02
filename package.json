@@ -1,0 +1,16 @@
+{
+  "name": "websocet-chat",
+  "version": "1.0.0",
+  "description": "api-server",
+  "main": "server.js",
+  "repository": "git@github.com:MaciejMl/websocet-chat.git",
+  "author": "MaciejMl <szypki@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
